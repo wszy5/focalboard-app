@@ -1,0 +1,16 @@
+{
+"serverRoot": "http://localhost:8000",
+"port": 8000,
+"dbtype": "mysql",
+"dbconfig": "wiktor:ubuntu@tcp(127.0.0.1:3306)/boards",
+"useSSL": false,
+"webpath": "./pack",
+"filespath": "./files",
+"telemetry": true,
+"prometheusaddress": ":9092",
+"session_expire_time": 2592000,
+"session_refresh_time": 18000,
+"localOnly": false,
+"enableLocalMode": true,
+"localModeSocketLocation": "/var/tmp/focalboard_local.socket"
+}
