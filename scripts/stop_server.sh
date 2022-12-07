@@ -1,2 +1,2 @@
 #!/bin/bash
-clear
+killalll -s SIGINT ssh
