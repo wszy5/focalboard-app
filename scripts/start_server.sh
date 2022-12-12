@@ -1,2 +1,2 @@
 #!/bin/bash
-cd focalboard-app && ./bin/focalboard-server
+cd focalboard-app && sudo ./bin/focalboard-server
