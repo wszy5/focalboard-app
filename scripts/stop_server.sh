@@ -1,2 +1,2 @@
 #!/bin/bash
-killalll -s SIGINT ssh
+sudo fuser -k 8000/tcp
