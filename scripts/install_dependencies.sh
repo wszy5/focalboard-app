@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo rm -rf *
+sudo rm -rf /home/ec2-user/*
